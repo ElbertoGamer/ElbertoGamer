@@ -5,9 +5,9 @@ Soy un Técnico Superior en Administración de Sistemas Informáticos en Red, in
 ---
 
 ## Tecnologías y Herramientas
-- **Lenguajes**: C, Python, XML, HTML, ...
-- **Bases de Datos**: MySQL y MariaDB.
-- **Herramientas de Desarrollo**: Git.
+- **Programming Languages**: C, Python, XML, HTML, ...
+- **Databases**: MySQL y MariaDB.
+- **Designing Tools**: Git.
 - **Cloud**: AWS.
 
 ---
