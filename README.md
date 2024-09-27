@@ -1,4 +1,4 @@
-# ¡Hola! Soy Cote
+# ¡Hola! Soy Coterillo
 
 Soy un Técnico Superior en Administración de Sistemas Informáticos en Red, interesado por la tecnología. Mi objetivo es crear soluciones eficientes y útiles que tengan un impacto positivo en el mundo.
 
