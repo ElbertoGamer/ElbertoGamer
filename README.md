@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! Soy Cote
 
-<!--
-**ElbertoGamer/ElbertoGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un Técnico Superior en Administración de Sistemas Informáticos en Red, interesado por la tecnología. Mi objetivo es crear soluciones eficientes y útiles que tengan un impacto positivo en el mundo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías y Herramientas
+- **Lenguajes**: C, Python, XML, HTML, ...
+- **Bases de Datos**: MySQL y MariaDB.
+- **Herramientas de Desarrollo**: Git.
+- **Cloud**: AWS.
+
+---
+
+## Contacto
+
+- **LinkedIn**: [Enlace a mi perfil](https://es.linkedin.com/in/alberto-coterillo-gonzález-71952a2b5)
+- **Correo Electrónico**: [Correo](coterillogonzalezalberto@gmail.com)
+
+¡Gracias por visitar mi perfil!
+
